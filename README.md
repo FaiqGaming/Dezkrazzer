@@ -30,8 +30,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//Dezkrazzer/wa-bot/pull/1) in [Dezkrazzer/wa-bot](https://github.com//Dezkrazzer/wa-bot)
-2. 💪 Opened PR [#1](https://github.com//Dezkrazzer/wa-bot/pull/1) in [Dezkrazzer/wa-bot](https://github.com//Dezkrazzer/wa-bot)
+1. ❌ Closed PR [#6](https://github.com//hansputera/whatsapp-bot/pull/6) in [hansputera/whatsapp-bot](https://github.com//hansputera/whatsapp-bot)
+2. 💪 Opened PR [#6](https://github.com//hansputera/whatsapp-bot/pull/6) in [hansputera/whatsapp-bot](https://github.com//hansputera/whatsapp-bot)
 <!--END_SECTION:activity-->
 
 
