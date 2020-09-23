@@ -30,8 +30,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#61](https://github.com//ankurk91/vue-loading-overlay/issues/61) in [ankurk91/vue-loading-overlay](https://github.com//ankurk91/vue-loading-overlay)
-2. 🗣 Commented on [#95](https://github.com//pedroslopez/whatsapp-web.js/issues/95) in [pedroslopez/whatsapp-web.js](https://github.com//pedroslopez/whatsapp-web.js)
+1. 🎉 Merged PR [#1](https://github.com//Dezkrazzer/aeeroobot/pull/1) in [Dezkrazzer/aeeroobot](https://github.com//Dezkrazzer/aeeroobot)
+2. 💪 Opened PR [#1](https://github.com//Dezkrazzer/aeeroobot/pull/1) in [Dezkrazzer/aeeroobot](https://github.com//Dezkrazzer/aeeroobot)
 <!--END_SECTION:activity-->
 
 
