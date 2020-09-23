@@ -49,11 +49,11 @@
   </thead>
   <tbody>
     <tr>
-	    <td><a href="https://github.com/SharifPoetra/thunder-java"><b>Thunder</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/SharifPoetra/thunder-java?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/SharifPoetra/thunder-java?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/SharifPoetra/thunder-java?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SharifPoetra/thunder-java?style=flat-square&labelColor=343b41"/></td>
+	    <td><a href="https://github.com/Dezkrazzer/suzu-fuura"><b>Thunder</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Dezkrazzer/suzu-fuura?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Dezkrazzer/suzu-fuura?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Dezkrazzer/suzu-fuura?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Dezkrazzer/suzu-fuura?style=flat-square&labelColor=343b41"/></td>
     </tr>
 
 #### Github Stats
