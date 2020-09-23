@@ -37,12 +37,23 @@
 
 #### Weekly Code Activity
 
-<tr>
-      <td><a href="https://github.com/SharifPoetra/yumeko"><b>Yumeko</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/SharifPoetra/yumeko?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/SharifPoetra/yumeko?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/SharifPoetra/yumeko?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SharifPoetra/yumeko?style=flat-square&labelColor=343b41"/></td>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td><a href="https://github.com/SharifPoetra/thunder-java"><b>Thunder</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SharifPoetra/thunder-java?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SharifPoetra/thunder-java?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SharifPoetra/thunder-java?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SharifPoetra/thunder-java?style=flat-square&labelColor=343b41"/></td>
     </tr>
 
 #### Github Stats
