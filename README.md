@@ -37,15 +37,13 @@
 
 #### Weekly Code Activity
 
-<!--START_SECTION:waka-->
-```text
-TypeScript   8 hrs 13 mins   ████████████████████▓░░░░   83.16 % 
-JSON         48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-JavaScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-HTML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Vue.js       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-```
-<!--END_SECTION:waka-->
+<tr>
+      <td><a href="https://github.com/SharifPoetra/yumeko"><b>Yumeko</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/SharifPoetra/yumeko?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/SharifPoetra/yumeko?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/SharifPoetra/yumeko?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SharifPoetra/yumeko?style=flat-square&labelColor=343b41"/></td>
+    </tr>
 
 #### Github Stats
 
