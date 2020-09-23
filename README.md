@@ -30,8 +30,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//Dezkrazzer/aeeroobot/pull/1) in [Dezkrazzer/aeeroobot](https://github.com//Dezkrazzer/aeeroobot)
-2. 💪 Opened PR [#1](https://github.com//Dezkrazzer/aeeroobot/pull/1) in [Dezkrazzer/aeeroobot](https://github.com//Dezkrazzer/aeeroobot)
+1. 🎉 Merged PR [#1](https://github.com//Dezkrazzer/wa-bot/pull/1) in [Dezkrazzer/wa-bot](https://github.com//Dezkrazzer/wa-bot)
+2. 💪 Opened PR [#1](https://github.com//Dezkrazzer/wa-bot/pull/1) in [Dezkrazzer/wa-bot](https://github.com//Dezkrazzer/wa-bot)
 <!--END_SECTION:activity-->
 
 
