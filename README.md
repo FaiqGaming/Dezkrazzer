@@ -35,27 +35,6 @@
 <!--END_SECTION:activity-->
 
 
-#### Weekly Code Activity
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-	    <td><a href="https://github.com/Dezkrazzer/suzu-fuura"><b>Thunder</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Dezkrazzer/suzu-fuura?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Dezkrazzer/suzu-fuura?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Dezkrazzer/suzu-fuura?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Dezkrazzer/suzu-fuura?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-
 #### Github Stats
 
 <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=Dezkrazzer&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=false">
