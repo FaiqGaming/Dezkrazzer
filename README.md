@@ -20,8 +20,8 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Javascript&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Javascript-f1c40f?style=flat-square&logo=Javascript&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Bootstrap-007396?style=flat-square&logo=Bootstrap&logoColor=white" />
 </p>
 
 
