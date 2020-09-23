@@ -49,7 +49,7 @@ Vue.js       7 mins          ▒░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-<img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=SharifPoetra&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=false">
+<img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=Dezkrazzer&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=false">
 
 [facebook]: https://facebook.com/waxaranai
 [twitter]: https://twitter.com/Waxaranai
