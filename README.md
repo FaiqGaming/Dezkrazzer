@@ -30,8 +30,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//secretDevelopment17/secretdev.js/issues/1) in [secretDevelopment17/secretdev.js](https://github.com//secretDevelopment17/secretdev.js)
-2. ❗️ Opened issue [#1](https://github.com//secretDevelopment17/secretdev.js/issues/1) in [secretDevelopment17/secretdev.js](https://github.com//secretDevelopment17/secretdev.js)
+1. ❗️ Closed issue [#1](https://github.com/secretDevelopment17/secretdev.js/issues/1) in [secretDevelopment17/secretdev.js](https://github.com/secretDevelopment17/secretdev.js)
+2. ❗️ Opened issue [#1](https://github.com/secretDevelopment17/secretdev.js/issues/1) in [secretDevelopment17/secretdev.js](https://github.com/secretDevelopment17/secretdev.js)
 <!--END_SECTION:activity-->
 
 
