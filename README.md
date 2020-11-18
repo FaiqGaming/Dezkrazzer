@@ -30,8 +30,8 @@
 #### Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Dezkrazzer/meets/pull/1) in [Dezkrazzer/meets](https://github.com/Dezkrazzer/meets)
-2. 🎉 Merged PR [#1](https://github.com/Dezkrazzer/meet/pull/1) in [Dezkrazzer/meet](https://github.com/Dezkrazzer/meet)
+1. 🎉 Merged PR [#1](https://github.com/Dezkrazzer/meet/pull/1) in [Dezkrazzer/meet](https://github.com/Dezkrazzer/meet)
+2. 💪 Opened PR [#1](https://github.com/Dezkrazzer/meet/pull/1) in [Dezkrazzer/meet](https://github.com/Dezkrazzer/meet)
 <!--END_SECTION:activity-->
 
 
