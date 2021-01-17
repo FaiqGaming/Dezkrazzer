@@ -39,6 +39,8 @@
 
 <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=Dezkrazzer&theme=dark&show_icons=true&count_private=true&include_all_commits=true&hide_title=false">
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Dezkrazzer&theme=blue-green)](https://github.com/Dezkrazzer/Dezkrazzer)
+
 [facebook]: https://facebook.com/waxaranai
 [twitter]: https://twitter.com/Waxaranai
 [youtube]: https://youtube.com/Waxaranai
