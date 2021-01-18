@@ -22,6 +22,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Javascript-f1c40f?style=flat-square&logo=Javascript&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Bootstrap-007396?style=flat-square&logo=Bootstrap&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Typescript-007396?style=flat-square&logo=Typescript&logoColor=white" />
 </p>
 
 
