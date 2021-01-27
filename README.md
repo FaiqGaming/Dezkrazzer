@@ -23,7 +23,7 @@
   <img alt="Java" src="https://img.shields.io/badge/-Javascript-f1c40f?style=flat-square&logo=Javascript&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Bootstrap-007396?style=flat-square&logo=Bootstrap&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Typescript-007396?style=flat-square&logo=Typescript&logoColor=white" />
-  <img alt="Github actions" src="https://img.shields.io/badge/-phyton-2088FF?style=flat-square&logo=phyton&logoColor=white" />
+  <img alt="Phyton" src="https://img.shields.io/badge/-python-2088FF?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 
